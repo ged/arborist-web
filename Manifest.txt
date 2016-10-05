@@ -1,0 +1,7 @@
+.simplecov
+ChangeLog
+README.md
+Rakefile
+lib/arborist/web.rb
+spec/arborist/web_spec.rb
+spec/spec_helper.rb
